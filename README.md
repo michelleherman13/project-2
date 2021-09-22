@@ -12,7 +12,7 @@ Happiness Score, Economy, Family, Health and Freedom
 
 
 ![Image of World Hapiness](https://www.herd.org.np/uploads/frontend/blogscoverphoto/1480669639-whr-logo.png)
-
+![Image of World Hapiness](https://whatworkswellbeing.files.wordpress.com/2016/03/160311-whr-2016-happy-ppl-opt.jpg)
 
 ### Extract Data from these sources: 
  
