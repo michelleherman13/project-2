@@ -10,6 +10,10 @@ Gather data to support a determination for the countries where people are report
 Country Population numbers from all countries in 2015 and 2016
 Happiness Score, Economy, Family, Health and Freedom
 
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
 ### Extract Data from these sources: 
  
 https://www.kaggle.com/unsdsn/world-happiness?select=2015.csv
@@ -21,7 +25,7 @@ https://datahub.io/JohnSnowLabs/population-figures-by-country
 
 ### Transform the Data 
 
-Data was transformed using Jupyter Notebook to import and clean data to be usable to make a final determination of where people were reportedly happiest globally in 2015 and 2016. 
+Data was transformed using Jupyter Notebook to import and clean data to be use\able to make a final determination of where people were reportedly happiest globally in 2015 and 2016. 
 
 Import CSV datasets 
 Renamed and dropped columns 
