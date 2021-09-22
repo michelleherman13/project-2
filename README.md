@@ -42,7 +42,7 @@ Data was transformed using Jupyter Notebook to import and clean data to be useea
 * Removed data population figures from 1960 thru 2014 
 * Removed Country Id’s, Regions, Lower and Upper Confidence Intervals,  Generosity. Dystopia Residual factors, and Trust in Government 
 * Employed Quick DBD to create ERD 
-* Database creation using pgAdmin postgres
+* Database creation using pgAdmin postgres 
 
 
 
@@ -63,8 +63,15 @@ Data was transformed using Jupyter Notebook to import and clean data to be useea
 
 
 
-Database was created use jupyter notebook and confirmed in pgAdmin PostgresSql
+Database was created using jupyter notebook and confirmed using pgAdmin PostgresSql.  
+
+Data can now be used to make supported determinations based on population for years 2015 and 2016 and by population database creation. 
 
 
 [![img](https://raw.githubusercontent.com/michelleherman13/project-2/main/Resources/rename_columns_lowercase_15.png)
+
+
+
+
+
 
