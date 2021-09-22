@@ -35,7 +35,7 @@ Employed Quick DBD to create ERD
 Database creation using pgAdmin postgres
 
 
-/Resources/rename_columns_lowercase_15.png
+(./Resources/rename_columns_lowercase_15.png)
 ### Load Final Database 
 
 Database was created 
