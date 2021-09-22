@@ -1,4 +1,4 @@
-Country,Happiness Score,Economy ,Family,Health,Freedom
+Country,Happiness_Score,Economy,Family,Health,Freedom
 Denmark,7.526,1.44178,1.16374,0.79504,0.57941
 Switzerland,7.509,1.52733,1.14524,0.86303,0.58557
 Iceland,7.501,1.42666,1.18326,0.86733,0.56624
