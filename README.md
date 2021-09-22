@@ -36,6 +36,8 @@ Database creation using pgAdmin postgres
 
 
 (./Resources/rename_columns_lowercase_15.png)
+
+[![img](https://raw.githubusercontent.com/michelleherman13/project-2/main/Resources/rename_columns_lower_2016.png)
 ### Load Final Database 
 
 Database was created 
