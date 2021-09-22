@@ -11,7 +11,7 @@ Country Population numbers from all countries in 2015 and 2016
 Happiness Score, Economy, Family, Health and Freedom
 
 
-(https://octodex.github.com/images/yaktocat.png)
+![Image of World Hapiness](https://octodex.github.com/images/yaktocat.png)
 
 
 ### Extract Data from these sources: 
