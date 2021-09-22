@@ -11,8 +11,8 @@ Country Population numbers from all countries in 2015 and 2016
 Happiness Score, Economy, Family, Health and Freedom
 
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+(https://github.com/michelleherman13/project-2/blob/main/Resources/Global_Happiness.jpeg)
+
 
 ### Extract Data from these sources: 
  
