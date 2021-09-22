@@ -34,13 +34,15 @@ Removed Country Id’s, Regions, Lower and Upper Confidence Intervals,  Generosi
 Employed Quick DBD to create ERD 
 Database creation using pgAdmin postgres
 
-
-(./Resources/rename_columns_lowercase_15.png)
+[![img](https://raw.githubusercontent.com/michelleherman13/project-2/main/Resources/rename_columns_lowercase_15.png)
 
 [![img](https://raw.githubusercontent.com/michelleherman13/project-2/main/Resources/rename_columns_lower_2016.png)
+
+[![img]https://raw.githubusercontent.com/michelleherman13/project-2/main/Resources/transform-15_16_df.png)
+
 ### Load Final Database 
 
-Database was created 
+Database was created use jupyter notebook and confirmed in pgAdmin PostgresSql
 
-
+[![img](https://raw.githubusercontent.com/michelleherman13/project-2/main/Resources/rename_columns_lowercase_15.png)
 
