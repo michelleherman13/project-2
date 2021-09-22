@@ -63,12 +63,15 @@ Data was transformed using Jupyter Notebook to import and clean data to be useea
 
 
 
-Database was created using jupyter notebook and confirmed using pgAdmin PostgresSql.  
+Database was created using Jupyter Notebook and tables combined using pgAdmin PostgresSql.  
 
-Data can now be used to make supported determinations based on population for years 2015 and 2016 and by population database creation. 
+Data can now be used to make supported determinations based on country for years 2015 and 2016 data specific to happiness score, family, freedom, population , economy and health. 
 
 
-[![img](https://raw.githubusercontent.com/michelleherman13/project-2/main/Resources/rename_columns_lowercase_15.png)
+
+[![img](https://raw.githubusercontent.com/michelleherman13/project-2/main/Resources/schema_sql.png)
+
+[![img](https://github.com/michelleherman13/project-2/blob/main/Resources/Join__country.png)
 
 
 
