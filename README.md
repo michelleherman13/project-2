@@ -7,7 +7,7 @@
 
 ## Project Proposal
 
-Extract, transform and load data for future analysis of which countries where the people are reportedly the happiest globally in 2015 and 2016. 
+Extract, transform and load data for future analysis of which countries where the people reportedly are the happiest globally in the years 2015 and 2016. 
 
 
 ### Global Happiness by Country
