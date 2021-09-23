@@ -19,6 +19,7 @@ Where in the world are people reportedly the most happy?
 Extract, transform and load data for future analysis of which countries were the people reportedly the happiest globally in the years 2015 and 2016. 
 
 
+
 ### Global Happiness by Country
 
 * Country Population numbers from all countries in 2015 and 2016
@@ -75,7 +76,7 @@ Data was transformed using Jupyter Notebook to import and clean data for future 
 ### Load Final Database 
 
 
-The final realtional database was created using Jupyter Notebook and PgAdmin PostgresSql. Data can now be used to make determinations based on counrties for the years 2015 and 2016 and specific to each countries happiness score, family, freedom, population, economy and health. 
+The final relattional database was created using Jupyter Notebook and PgAdmin PostgresSql. Data can now be used to make determinations based on counrties for the years 2015 and 2016 and specific to each countries happiness score, family, freedom, population, economy and health. 
 
 
 
