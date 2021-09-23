@@ -7,15 +7,13 @@
 
 ## Project Proposal
 
-Gather data to support a determination for the countries where people are reportedly the happiest globally in 2015 and 2016.  
-
-
+Extract, transform and load data for future analysis of which countries where the people are reportedly the happiest globally in 2015 and 2016. 
 
 
 ### Global Happiness by Country
 
-Country Population numbers from all countries in 2015 and 2016
-Happiness Score, Economy, Family, Health and Freedom
+* Country Population numbers from all countries in 2015 and 2016
+* Happiness Score, Economy, Family, Health and Freedom
 
 
 
@@ -40,9 +38,9 @@ Data was transformed using Jupyter Notebook to import and clean data to be useea
 * Import CSV datasets 
 * Renamed and dropped columns 
 * Removed data population figures from 1960 thru 2014 
-* Removed Country Id’s, Regions, Lower and Upper Confidence Intervals,  Generosity. Dystopia Residual factors, and Trust in Government 
+* Removed Country Id’s, Regions, Lower and Upper Confidence Intervals, Generosity, Dystopia Residual factors, and Trust in Government 
 * Employed Quick DBD to create ERD 
-* Database creation using pgAdmin postgres 
+* Database creation using pgAdmin PostgresSql 
 
 
 
@@ -62,10 +60,7 @@ Data was transformed using Jupyter Notebook to import and clean data to be useea
 ### Load Final Database 
 
 
-
-Database was created using Jupyter Notebook and tables combined using pgAdmin PostgresSql.  
-
-Data can now be used to make supported determinations based on country for years 2015 and 2016 data specific to happiness score, family, freedom, population , economy and health. 
+The final realtional database was created using Jupyter Notebook and PgAdmin PostgresSql. Data can now be used to make determinations based on counrties for the years 2015 and 2016 and specific to each countries happiness score, family, freedom, population, economy and health. 
 
 
 
