@@ -75,6 +75,11 @@ Data was transformed using Jupyter Notebook to import and clean data for future 
 
 
 
+![img](https://raw.githubusercontent.com/michelleherman13/project-2/main/Resources/Project%202%20ERD.png)
+
+
+
+
 ### Load Final Database 
 
 
