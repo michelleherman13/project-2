@@ -64,7 +64,7 @@ Data was transformed using Jupyter Notebook to import and clean data for future 
 ### Load Final Database 
 
 
-The final relattional database was created using Jupyter Notebook and PgAdmin PostgresSql. Data can now be used to make future analyisis based on countries for the years 2015 and 2016 and specific to each countries happiness score, family, health, freedom, economy and population. 
+The final relational database was created using Jupyter Notebook and PgAdmin PostgresSql. Data can now be used to make future analyisis based on countries for the years 2015 and 2016 and specific to each countries happiness score, family, health, freedom, economy and population. 
 
 
 
