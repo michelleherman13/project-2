@@ -5,7 +5,13 @@
 Where in the world are people reportedly the most happy? 
 
 
+
+
+
 ![Image of World Hapiness](https://www.herd.org.np/uploads/frontend/blogscoverphoto/1480669639-whr-logo.png)
+
+
+
 
 
 ## Project Proposal
@@ -16,11 +22,14 @@ Extract, transform and load data for future analysis of which countries were the
 ### Global Happiness by Country
 
 * Country Population numbers from all countries in 2015 and 2016
-* Happiness Score, Economy, Family, Health and Freedom
+* Happiness Score, Economy, Family, Health and Freedom calulated on scale of 0 to 10; 10 is rated as best possible life.  
+
+
 
 
 
 ![Image of World Hapiness](https://whatworkswellbeing.files.wordpress.com/2016/03/160311-whr-2016-happy-ppl-opt.jpg)
+
 
 
 
@@ -46,7 +55,7 @@ Data was transformed using Jupyter Notebook to import and clean data for future 
 * Removed data population figures from 1960 thru 2014 
 * Removed Country Id’s, Regions, Lower and Upper Confidence Intervals, Generosity, Dystopia Residual factors, and Trust in Government 
 * Employed Quick DBD to create ERD 
-* Database creation using pgAdmin PostgresSql 
+* Database creation using pgAdmin postgresSql 
 
 
 
