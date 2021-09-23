@@ -1,13 +1,16 @@
 # ETL Project 2: Extract, Transform and Load 
 
+## Finding Your Happy Place! 
+
+Where in the world are people reportedly the most happy? 
+
 
 ![Image of World Hapiness](https://www.herd.org.np/uploads/frontend/blogscoverphoto/1480669639-whr-logo.png)
 
 
-
 ## Project Proposal
 
-Extract, transform and load data for future analysis of which countries where the people reportedly are the happiest globally in the years 2015 and 2016. 
+Extract, transform and load data for future analysis of which countries were the people reportedly the happiest globally in the years 2015 and 2016. 
 
 
 ### Global Happiness by Country
@@ -18,6 +21,9 @@ Extract, transform and load data for future analysis of which countries where th
 
 
 ![Image of World Hapiness](https://whatworkswellbeing.files.wordpress.com/2016/03/160311-whr-2016-happy-ppl-opt.jpg)
+
+
+
 
 ### Extract Data from these sources: 
  
@@ -33,7 +39,7 @@ https://datahub.io/JohnSnowLabs/population-figures-by-country
 
 ### Transform the Data 
 
-Data was transformed using Jupyter Notebook to import and clean data to be useeable to make a final determination of where people were reportedly happiest globally in 2015 and 2016. 
+Data was transformed using Jupyter Notebook to import and clean data for future analysis of where people were reportedly happiest globally in 2015 and 2016. 
 
 * Import CSV datasets 
 * Renamed and dropped columns 
