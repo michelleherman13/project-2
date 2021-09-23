@@ -7,7 +7,7 @@
 
 ## Project Proposal
 
-Gather data to support a determination for the countries where people are reportedly the happiest globally.  
+Gather data to support a determination for the countries where people are reportedly the happiest globally in 2015 and 2016.  
 
 
 
