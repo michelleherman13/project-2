@@ -60,7 +60,7 @@ Data was transformed using Jupyter Notebook to import and clean data for future 
 
 
 
-[![img](https://raw.githubusercontent.com/michelleherman13/project-2/main/Resources/rename_columns_lowercase_15.png)
+[![img](https://raw.githubusercontent.com/michelleherman13/project-2/main/Resources/Extract_pop_2105.png)
 
 
 
@@ -83,6 +83,8 @@ The final relattional database was created using Jupyter Notebook and PgAdmin Po
 [![img](https://raw.githubusercontent.com/michelleherman13/project-2/main/Resources/schema_sql.png)
 
 [![img](https://github.com/michelleherman13/project-2/blob/main/Resources/Join__country.png)
+
+[![img](https://github.com/michelleherman13/project-2/blob/main/Resources/confirm_query_data_added.png)
 
 
 
