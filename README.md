@@ -88,9 +88,9 @@ The final relattional database was created using Jupyter Notebook and PgAdmin Po
 
 [![img](https://github.com/michelleherman13/project-2/blob/main/Resources/confirm_query_data_added.png)
 
-[![img](https://github.com/michelleherman13/project-2/blob/main/Resources/confirm_query_data_added.png)
+[![img](https://raw.githubusercontent.com/michelleherman13/project-2/main/Resources/Create_Load_Database.png)
 
-[![img](https://github.com/michelleherman13/project-2/blob/main/Resources/confirm_query_data_added.png)
+
 
 
 
