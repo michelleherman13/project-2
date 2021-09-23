@@ -56,7 +56,7 @@ Data was transformed using Jupyter Notebook to import and clean data for future 
 * Removed data population figures from 1960 thru 2014 
 * Removed Country Id’s, Regions, Lower and Upper Confidence Intervals, Generosity, Dystopia Residual factors, and Trust in Government 
 * Employed Quick DBD to create ERD 
-* Database creation using pgAdmin postgresSql 
+
 
 
 
@@ -64,7 +64,9 @@ Data was transformed using Jupyter Notebook to import and clean data for future 
 
 
 
+
 [![img](https://raw.githubusercontent.com/michelleherman13/project-2/main/Resources/rename_columns_lower_2016.png)
+
 
 
 
@@ -76,7 +78,7 @@ Data was transformed using Jupyter Notebook to import and clean data for future 
 ### Load Final Database 
 
 
-The final relattional database was created using Jupyter Notebook and PgAdmin PostgresSql. Data can now be used to make determinations based on counrties for the years 2015 and 2016 and specific to each countries happiness score, family, freedom, population, economy and health. 
+The final relattional database was created using Jupyter Notebook and PgAdmin PostgresSql. Data can now be used to make future analyisis based on counrties for the years 2015 and 2016 and specific to each countries happiness score, family, health, freedom, economy and population. 
 
 
 
@@ -86,7 +88,9 @@ The final relattional database was created using Jupyter Notebook and PgAdmin Po
 
 [![img](https://github.com/michelleherman13/project-2/blob/main/Resources/confirm_query_data_added.png)
 
+[![img](https://github.com/michelleherman13/project-2/blob/main/Resources/confirm_query_data_added.png)
 
+[![img](https://github.com/michelleherman13/project-2/blob/main/Resources/confirm_query_data_added.png)
 
 
 
