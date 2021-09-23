@@ -60,25 +60,6 @@ Data was transformed using Jupyter Notebook to import and clean data for future 
 
 
 
-![img](https://raw.githubusercontent.com/michelleherman13/project-2/main/Resources/Extract_pop_2105.png)
-
-
-
-
-![img](https://raw.githubusercontent.com/michelleherman13/project-2/main/Resources/rename_columns_lower_2016.png)
-
-
-
-
-![img](https://raw.githubusercontent.com/michelleherman13/project-2/main/Resources/transform-15_16_df.png)
-
-
-
-
-![img](https://raw.githubusercontent.com/michelleherman13/project-2/main/Resources/Project%202%20ERD.png)
-
-
-
 
 ### Load Final Database 
 
@@ -87,14 +68,6 @@ The final relattional database was created using Jupyter Notebook and PgAdmin Po
 
 
 
-![img](https://raw.githubusercontent.com/michelleherman13/project-2/main/Resources/Create_Load_Database.png)
-
-![img](https://github.com/michelleherman13/project-2/blob/main/Resources/confirm_query_data_added.png)
-
-
-![img](https://raw.githubusercontent.com/michelleherman13/project-2/main/Resources/schema_sql.png)
-
-![img](https://github.com/michelleherman13/project-2/blob/main/Resources/Join__country.png)
 
 
 
