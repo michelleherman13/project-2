@@ -58,7 +58,7 @@ Data was transformed using Jupyter Notebook to import and clean data for future 
 * Employed Quick DBD to create ERD 
 
 
-![image](Resources/Project%202%20ERD.png)
+![image](Resources/project_2_ERD.png)
 
 
 ### Load Final Database 
